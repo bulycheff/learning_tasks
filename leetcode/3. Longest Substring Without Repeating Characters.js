@@ -41,5 +41,4 @@ const lengthOfLongestSubstring = function (s) {
 
 }
 
-const input = 'abcabcbb'
-console.log(lengthOfLongestSubstring(input))
+module.exports = { lengthOfLongestSubstring }
