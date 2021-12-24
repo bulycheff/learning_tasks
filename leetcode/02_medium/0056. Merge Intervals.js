@@ -1,5 +1,4 @@
-let input = [[10, 11], [17, 22], [2, 6], [15, 18], [8, 10], [1, 3]]
-let input2 = [[11, 12], [2, 3], [5, 7], [1, 4], [8, 10], [6, 8]]
+let input = [[1,3],[2,6],[8,10],[15,18]]
 
 function mergeArrays(inputArray) {
   return inputArray
@@ -16,4 +15,3 @@ function mergeArrays(inputArray) {
 }
 
 console.log(mergeArrays(input))
-console.log(mergeArrays(input2))
