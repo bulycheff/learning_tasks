@@ -1,4 +1,4 @@
-const { lengthOfLongestSubstring } = require('./leetcode/3. Longest Substring Without Repeating Characters')
+const { lengthOfLongestSubstring } = require('./leetcode/003. Longest Substring Without Repeating Characters')
 
 describe('longest ss wo repeating ch', () => {
 
