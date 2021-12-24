@@ -1,4 +1,4 @@
-const { numberToWords } = require('./273. Integer to English Words')
+const { numberToWords } = require('./0273. Integer to English Words')
 
 describe('273. Integer to English Words', () => {
 
